@@ -7,8 +7,10 @@ I am working hard to improve myself in the fields of software and cybersecurity.
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertcatalkaya/)
 ![](https://visitor-badge.glitch.me/badge?page_id=MertCatalkaya)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MertCatalkaya&show_icons=true&theme=dark" alt="GitHub stats" />
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MertCatalkaya" alt="mertcatalkaya" /> </p>
 
 
 
