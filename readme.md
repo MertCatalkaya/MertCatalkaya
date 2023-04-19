@@ -5,8 +5,6 @@
 I am working hard to improve myself in the fields of software and cybersecurity.**
 
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertcatalkaya/)
-<a href="https://discord.gg/MertCKAYA#9133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="soykan#6219" height="30" width="40" /></a>
-</p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MertCatalkaya)
 
