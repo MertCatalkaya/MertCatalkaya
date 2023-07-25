@@ -1,4 +1,4 @@
-# &nbsp;<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# &nbsp;<h1 align="center">Hi there </h1>
 
 
 **I am Mert ÇATALKAYA, a second-year student in the Electronics and Communication Engineering department at Kocaeli University. Also common core student at 42Kocaeli.**
